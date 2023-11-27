@@ -1,7 +1,9 @@
 Audting Contest List
 Secure3:
+| Project                              | Language   | Project Description            | Project Link                                   | Report                                                                                                                      |
+|--------------------------------------|------------|--------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 
-| :globe_with_meridians: dappOS P3     | Solidity   | Operating Protocol             | [twitter](https://twitter.com/dappOS_com)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/dappOS)            
+| :globe_with_meridians: dappOS P3     | Solidity   | Operating Protocol             | [twitter](https://twitter.com/dappOS_com)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/dappOS)                     |
 Fun Wallet
 Gambit-Wemix
 Game7Hyperplay
@@ -13,7 +15,7 @@ Nativ3DAO      https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_re
 IoTex-IIP14
 Ukii
 HibikiRun
-| :balance_scale:	 Holonym-P1               | Solidity   | ZK Rollup                      | [twitter](https://twitter.com/0xHolonym)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Holonym)    
+| :balance_scale:	 Holonym-P1               | Solidity   | ZK Rollup                      | [twitter](https://twitter.com/0xHolonym)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Holonym)       |
 
 Audting List
 Beosin:
