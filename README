@@ -1,5 +1,22 @@
-Audting List 
-beosin
+Audting Contest List
+Secure3:
+
+| :globe_with_meridians: dappOS P3     | Solidity   | Operating Protocol             | [twitter](https://twitter.com/dappOS_com)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/dappOS)            
+Fun Wallet
+Gambit-Wemix
+Game7Hyperplay
+Game7Summon
+Lynex
+TakerProtocol
+Nativ3DAO      https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Nativ3Network/Nativ3Network_final_Secure3_Audit_Report.pdf
+
+IoTex-IIP14
+Ukii
+HibikiRun
+| :balance_scale:	 Holonym-P1               | Solidity   | ZK Rollup                      | [twitter](https://twitter.com/0xHolonym)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Holonym)    
+
+Audting List
+Beosin:
 NodeDAOProtocol https://beosin.com/audits/NodeDAO-Protocol_202302011759.pdf
 NodeDAO V1.1    https://beosin.com/audits/NodeDAO-Protocol_202302161759.pdf
 AethStaking     https://beosin.com/audits/Aeth-Staking_202211151729.pdf
@@ -16,6 +33,8 @@ AMC             https://beosin.com/audits/AMC_202302281530.pdf
 ESPLA RENA      https://beosin.com/audits/ESPL%20ARENA_202301111051.pdf
 
 Security Incident Response
+Secure3:
+
 Beosin:
 Avalanche-Platypus   https://mp.weixin.qq.com/s/HQh4g_-ZfkwJCBGyiDFypA
 
