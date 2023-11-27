@@ -31,7 +31,7 @@ Secure3:
 |  Launchpad.xyz            | Solidity   |                     |  [twitter](https://twitter.com/launchpadlpx)       | private                                 |
 
 
-##### Auditing List
+## Auditing List
 
 Beosin:
 | Project                              | Language   | Report                                                                                                                      |
