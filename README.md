@@ -4,7 +4,7 @@
 Ken (sijia zhu) <br>
 Blockchain Security Engineer  <br>
 Master of Science in Computer Science in Northeastern University, United States  <br>
-[Resume]() 
+[Resume](https://github.com/pazsj003/smartContractAuditing/blob/main/Ken_resume.pdf) 
 
 #### Auditing Contest Grading List
 
