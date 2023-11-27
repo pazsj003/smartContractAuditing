@@ -1,12 +1,12 @@
 
 ####  Bio
 
-Ken (sijia zhu) 
-Blockchain Security Engineer
-Master of Science in Computer Science in Northeastern University, United States 
-[Resume]()
+Ken (sijia zhu) <br>
+Blockchain Security Engineer  <br>
+Master of Science in Computer Science in Northeastern University, United States  <br>
+[Resume]() 
 
-##### Audting Contest Grading List
+#### Auditing Contest Grading List
 
 Secure3:
 | Project                              | Language   | Project Description            | Project Link                                   | Report                                                                                                                      |
@@ -29,7 +29,7 @@ Secure3:
 |  Launchpad.xyz            | Solidity   |                     |  [twitter](https://twitter.com/launchpadlpx)       | private                                 |
 
 
-##### Audting List
+##### Auditing List
 
 Beosin:
 | Project                              | Language   | Report                                                                                                                      |
@@ -51,7 +51,7 @@ Beosin:
      
            
      
-##### Security Incident Response
+#### Security Incident Response
 
 Secure3:
 
