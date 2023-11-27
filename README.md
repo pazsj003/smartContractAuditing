@@ -8,7 +8,7 @@ Master of Science in Computer Science in Northeastern University, United States 
 
 
 
-## Auditing Contest Grading List
+## Auditing Contests Grading List
 
 Secure3:
 | Project                              | Language   | Project Description            | Project Link                                   | Report                                                                                                                      |
