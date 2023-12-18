@@ -62,7 +62,7 @@ Secure3:
 | ZunamiProtocol Attack Event Summary   |  [medium](https://medium.com/@Secure3/zunamiprotocol-attack-event-summary-94da79e7389a)      | [weixin](https://mp.weixin.qq.com/s/7pmcfejrplOvp6K2ghwm-A) |
 | Analysis of the Blockchain Security Chain Events Caused by Vyper Compiler Vulnerabilities   |  [medium](https://medium.com/@Secure3/analysis-of-the-blockchain-security-chain-events-caused-by-vyper-compiler-vulnerabilities-37b66ad8aa45)    | [weixin](https://mp.weixin.qq.com/s/NvWPkq5MUpTjNnGw3pkDnQ) |
 | Loss of $126 Million! Multichain Fantom Bridge Attack Event | [medium](https://medium.com/@Secure3/loss-of-126-million-multichain-fantom-bridge-attack-event-e68693a36d2)| [weixin](https://mp.weixin.qq.com/s/ERFVmVUZTdas8p5jHrlpfg)  |   
-| LibertiVault | |   [weixin](https://mp.weixin.qq.com/s/NvWPkq5MUpTjNnGw3pkDnQ)   |  
+| LibertiVault | |   [weixin](https://mp.weixin.qq.com/s/rJ2ZuDN4ghPjSSrCD1kDCQ)   |  
 
 
 Beosin:
